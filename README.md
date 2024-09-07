@@ -1,2 +1,2 @@
 # Project
-Author - Laiba Choudary
+Author - Laiba Choudary (Bscs)
